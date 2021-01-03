@@ -1,0 +1,1 @@
+[null,{"name":"test","permissions":"NONE","restriction":"1","_id":"rXBHw","actions":[{"channel":"0","varName":"","message":"Testowa wiadomość.","storage":"0","varName2":"","name":"Send Message"},{"storage":"0","varName":"","reason":"","name":"Delete Message"}]}]
